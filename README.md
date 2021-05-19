@@ -16,7 +16,7 @@ Traditional Chinese Patch for Kancolle.
 - 裝備名稱
 
 ## 致謝
-此模組是基於Oradimi的專案製作，大部分中文翻譯來自kc3和艦娘百科。
+此模組是基於[InochiPM的KanColle-English-Patch-KCCP](https://github.com/InochiPM/KanColle-English-Patch-KCCP)專案製作，大部分中文翻譯來自kc3和艦娘百科。
 以下是原始致謝列表。
 Special Thanks
 To Tibo for implementing new ways to patch the game's textures with KCCacheProxy,\
