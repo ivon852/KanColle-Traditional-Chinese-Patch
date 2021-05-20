@@ -8,7 +8,7 @@ Traditional Chinese Patch for Kancolle.
 請參考[作者的影片](https://www.youtube.com/watch?v=Dog1zKAAWeI)了解安裝，並為瀏覽器設置proxy。
 
 ##### 導入這個模組
-勾選KCC裡的"Enable Asset Modifier"，接著再點選Add a patcher，選取下載好的ZHTW-patch.mod.json。
+勾選KCCP裡的"Enable Asset Modifier"，接著再點選Add a patcher，選取下載好的ZHTW-patch.mod.json。
 
 ## 未翻譯的部分
 - 以圖片構成的UI。
@@ -16,7 +16,7 @@ Traditional Chinese Patch for Kancolle.
 - 裝備名稱
 
 ## 致謝
-此模組是基於Oradimi的專案製作，大部分中文翻譯來自kc3和艦娘百科。
+此模組是基於[InochiPM的KanColle-English-Patch-KCCP](https://github.com/InochiPM/KanColle-English-Patch-KCCP)專案製作，大部分中文翻譯來自kc3和艦娘百科。
 以下是原始致謝列表。
 Special Thanks
 To Tibo for implementing new ways to patch the game's textures with KCCacheProxy,\
