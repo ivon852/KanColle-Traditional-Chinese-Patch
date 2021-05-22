@@ -10,6 +10,10 @@ Traditional Chinese Patch for Kancolle.
 ##### 導入這個模組
 勾選KCCP裡的"Enable Asset Modifier"，接著再點選Add a patcher，選取下載好的ZHTW-patch.mod.json。
 
+## 需修改的部分
+- resources/資料夾下的圖片需要重做。
+- img/下的album、arsenal、battle資料夾的圖片品質不佳，且使用的字體太細。
+
 ## 未翻譯的部分
 - 以圖片構成的UI。
 - 艦娘名稱
