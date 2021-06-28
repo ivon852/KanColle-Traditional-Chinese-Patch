@@ -1,7 +1,7 @@
 # KanColle-Traditional-Chinese-Patch
 Traditional Chinese Patch for Kancolle.\
 試製艦隊收藏中文化。即時將遊戲中的字串替換，達到翻譯文本的功效。\
-翻譯進度: 20%，更新2021年春活的翻譯。\
+翻譯進度: 40%，更新至2021年春活的翻譯。每週更新進度。
 
 ## 使用方法
 ##### 安裝KCCacheProxy
