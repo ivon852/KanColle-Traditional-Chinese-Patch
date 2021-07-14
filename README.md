@@ -1,7 +1,7 @@
 # KanColle-Traditional-Chinese-Patch
 Traditional Chinese Patch for Kancolle.\
-試製艦隊收藏中文化。即時將遊戲中的字串替換，達到翻譯文本的功效。\
-翻譯進度: 40%，更新至2021年春活的翻譯。每週更新進度。
+艦隊收藏中文化。即時將遊戲中的字串替換，達到翻譯文本的功效。\
+UI翻譯進度: 75%，活動部分則是更新至2021年春活的翻譯。每週更新進度。
 
 ## 使用方法
 ##### 安裝KCCacheProxy
@@ -11,11 +11,10 @@ Traditional Chinese Patch for Kancolle.\
 勾選KCCP裡的"Enable Asset Modifier"，接著再點選Add a patcher，選取下載好的ZHTW-patch.mod.json。
 
 ## 需修改的部分
-- resources/資料夾下的圖片需要重做。
-- img/下的album、arsenal、battle資料夾的圖片品質不佳，且使用的字體太細。
+- resources/資料夾下的圖片除useitem/外尚未翻譯。
+- img/下的album、arsenal、battle資料夾的圖片使用的字體錯誤。
 
 ## 未翻譯的部分
-- 以圖片構成的UI。
 - 艦娘名稱
 - 裝備名稱
 
