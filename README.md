@@ -1,7 +1,8 @@
-# KanColle-Traditional-Chinese-Patch
+# 艦隊收藏中文化
 Traditional Chinese Patch for Kancolle.\
-艦隊收藏中文化。即時將遊戲中的字串替換，達到翻譯文本的功效。\
-UI翻譯進度: 75%，活動部分則是更新至2021年春活的翻譯。每週更新進度。
+艦隊收藏介面中文化，跟魔改原理很類似的模組。\
+UI翻譯進度: 90%，更新至2021/07/24基地航空隊擴充更新。\
+每週會跟英文版確認一次並更新翻譯，有任何建議歡迎發Issue。\
 
 ## 使用方法
 ##### 安裝KCCacheProxy
@@ -11,16 +12,17 @@ UI翻譯進度: 75%，活動部分則是更新至2021年春活的翻譯。每週
 勾選KCCP裡的"Enable Asset Modifier"，接著再點選Add a patcher，選取下載好的ZHTW-patch.mod.json。
 
 ## 需修改的部分
-- resources/資料夾下的圖片除useitem/外尚未翻譯。
 - img/下的album、arsenal、battle資料夾的圖片使用的字體錯誤。
 
-## 未翻譯的部分
-- 艦娘名稱
-- 裝備名稱
+## 未翻譯或尚未完成的部分
+- kcs2/resource/下的area、world、worldselect。
+- 裝備名稱圖卡 (位於kcs2/resources/slots/)
+- 艦娘名稱 (位於kcs2/js/main.js/ignore-raw_text_translations/ignore-_ships.json)
+- 裝備名稱 (位於kcs2/js/main.js/ignore-raw_text_translations/ignore-_equips.json)
 
 ## 致謝
-此模組是基於[InochiPM的KanColle-English-Patch-KCCP](https://github.com/InochiPM/KanColle-English-Patch-KCCP)專案製作，大部分中文翻譯來自kc3和艦娘百科。
-以下是原始致謝列表。
+此模組是基於[InochiPM的KanColle-English-Patch-KCCP](https://github.com/InochiPM/KanColle-English-Patch-KCCP)專案製作，部分中文翻譯來自kc3和艦娘百科。\
+以下是原始致謝列表。\
 Special Thanks
 To Tibo for implementing new ways to patch the game's textures with KCCacheProxy,\
 as well as for making some code specially to patch raw text in a stable way.\
