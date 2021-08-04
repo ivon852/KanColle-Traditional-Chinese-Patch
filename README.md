@@ -2,7 +2,7 @@
 Traditional Chinese Patch for Kancolle.\
 艦隊收藏介面中文化，跟魔改原理很類似的模組。\
 UI翻譯進度: 90%，更新至2021/07/24基地航空隊擴充更新。\
-每週會跟英文版確認一次並更新翻譯，有任何建議歡迎發Issue。\
+每週會跟英文版確認一次並更新翻譯，有任何建議歡迎發Issue。
 
 ## 使用方法
 ##### 安裝KCCacheProxy
@@ -12,7 +12,7 @@ UI翻譯進度: 90%，更新至2021/07/24基地航空隊擴充更新。\
 勾選KCCP裡的"Enable Asset Modifier"，接著再點選Add a patcher，選取下載好的ZHTW-patch.mod.json。
 
 ## 需修改的部分
-- img/下的album、arsenal、battle資料夾的圖片使用的字體錯誤。
+- img/下的battle、battle_result/main資料夾的圖片使用的字體錯誤。
 
 ## 未翻譯或尚未完成的部分
 - kcs2/resource/下的area、world、worldselect。
