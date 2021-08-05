@@ -11,11 +11,9 @@ UI翻譯進度: 90%，更新至2021/07/24基地航空隊擴充更新。\
 ##### 導入這個模組
 勾選KCCP裡的"Enable Asset Modifier"，接著再點選Add a patcher，選取下載好的ZHTW-patch.mod.json。
 
-## 需修改的部分
-- img/下的battle、battle_result/main資料夾的圖片使用的字體錯誤。
-
-## 未翻譯或尚未完成的部分
-- kcs2/resource/下的area、world、worldselect。
+## 未翻譯的部分
+- img/battle
+- kcs2/resource/下的map、world、worldselect。
 - 裝備名稱圖卡 (位於kcs2/resources/slots/)
 - 艦娘名稱 (位於kcs2/js/main.js/ignore-raw_text_translations/ignore-_ships.json)
 - 裝備名稱 (位於kcs2/js/main.js/ignore-raw_text_translations/ignore-_equips.json)
