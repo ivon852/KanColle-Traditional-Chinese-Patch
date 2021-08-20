@@ -89,5 +89,3 @@ lerna-debug.log
 # System and Dev Files
 .DS_Store
 Thumbs.db
-*.psd
-*.txt
