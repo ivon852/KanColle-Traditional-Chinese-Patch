@@ -1,16 +1,12 @@
 # 艦隊收藏中文化
+艦隊收藏介面中文化\
 Traditional Chinese Patch for Kancolle.\
-艦隊收藏介面中文化，透過KCCProxy運作，可搭配poi、74式電子觀測儀、或單純瀏覽器運作。\
+透過KCCProxy運作，可搭配poi、74式電子觀測儀、或單純瀏覽器運作，原理類似魔改。\
 翻譯進度更新至2021/08/20夏活。\
 ![Title](https://i.imgur.com/mUIReZV.jpg)
 
 ## 使用方法
-#### 安裝KCCacheProxy
-請參考[作者的影片](https://www.youtube.com/watch?v=Dog1zKAAWeI)。
-
-#### 導入這個模組
-按右上角的Code下載這個專案的壓縮檔，解壓縮。\
-勾選KCCP裡的"Enable Asset Modifier"，接著再點選Add a patcher，選取解壓縮資料夾的ZHTW-patch.mod.json，然後刪除瀏覽器快取。
+請到Wiki查看[詳細安裝教學](https://github.com/ivon852/KanColle-Traditional-Chinese-Patch/wiki)。
 
 ## 致謝
 此模組是基於[InochiPM的KanColle-English-Patch-KCCP](https://github.com/InochiPM/KanColle-English-Patch-KCCP)專案製作，部分中文翻譯來自kc3和艦娘百科。\
