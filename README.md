@@ -19,7 +19,10 @@ Traditional Chinese Patch for Kancolle.\
 - 裝備名稱文本 (位於kcs2/js/main.js/ignore-raw_text_translations/ignore-_equips.json)
 
 #### 待修正列表
-- kcs2\img\battle\battle_telop\txt_start.png 參照原本的noise
+- kcs2\img\battle\battle_telop\txt_start.png 參照psd的noise
 - world的字體加寬
 - skin3的UI對齊
 - 任務返回的按鈕對齊
+- 任務的單沒翻譯到
+- 物品商店的字體調整
+- 工廠「廢棄」Icon說明置中
