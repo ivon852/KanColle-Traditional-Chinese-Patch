@@ -3,7 +3,7 @@
 Traditional Chinese Patch for Kancolle.\
 透過KCCProxy運作，可搭配poi、74式電子觀測儀、或單純瀏覽器運作，原理類似魔改。\
 翻譯進度更新至2021/08/20夏活。\
-![Title](https://i.imgur.com/mUIReZV.jpg)
+![Title](https://raw.githubusercontent.com/ivon852/KanColle-Traditional-Chinese-Patch/main/ZHTW-patch/kcs2/img/title/title2.png/patched.png)
 
 ## 使用方法
 請到Wiki查看[詳細安裝教學](https://github.com/ivon852/KanColle-Traditional-Chinese-Patch/wiki)。\
