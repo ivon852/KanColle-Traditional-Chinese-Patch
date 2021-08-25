@@ -23,6 +23,7 @@ Traditional Chinese Patch for Kancolle.\
 
 ## 待修正列表
 
+- 字體繁體化 kcs2\img\sally\sally_event.png\patched
 - kcs2\img\battle\battle_telop\txt_start.png 參照psd的noise
 - world的字體加寬
 - skin3的UI對齊
